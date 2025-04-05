@@ -1,0 +1,100 @@
+<!-- 5902801466168 -->
+
+<products>
+    <product>
+    <!-- [*] Your unique category ID, please give the smallest products group you have, but not brands -->
+    <category-id>3728</category-id>
+    <!-- [*] Your category name (better with full path, eg. Books/Novels/Jo Nesbo/) MANDATORY -->
+    <category-name><![CDATA[Pakabinami šviestuvai]]></category-name>
+    <!-- [#] Product title LT language -->
+    <title><![CDATA[Lubinis šviestuvas ABRA, 6168]]></title>
+    <!-- [#] Product title in RU language -->
+    <title-ru><![CDATA[Product title in RU language]]></title-ru>
+    <!-- [#] Product title in LV language -->
+    <title-lv><![CDATA[Product title in LV language]]></title-lv>
+    <!-- [#] Product title in EE language -->
+    <title-ee><![CDATA[Product title in EE language]]></title-ee>
+    <!-- [#] Product title in FI language -->
+    <title-fi><![CDATA[Product title in FI language]]></title-fi>
+    <!-- [#] Long description LT language, can be with HTML -->
+    <long-description><![CDATA[<div>
+   <div><span>Lubinis šviestuvas ABRA, 6168, AC220-240V, 50/60Hz, 1*E27, maks. 40W, IP20, vid. 40 cm, kreminės spalvos ABRA kolekcijoje yra du pakabinami šviestuvai: įprastas 40 cm skersmens ir trigubas 20 cm skersmens šviestuvas. Elegantiškas ir subtilus dizainas, įkvėptas BOHO stiliaus. Pagaminta iš aukštos kokybės audinio ir rotango. Šios kolekcijos šviestuvai puikiai atrodys skirtinguose interjeruose: svetainėje, valgomajame ar miegamajame. Idealus sprendimas natūralumo ir boho stiliaus subtilumo mėgėjams.</span><br /></div>
+   </div>]]></long-description>
+    <!-- [#] Long description RU language, can be with HTML -->
+    <long-description-ru><![CDATA[<p>Some long description in RU language.</p>]]></long-description-ru>
+    <!-- [#] Long description LV language, can be with HTML -->
+    <long-description-lv><![CDATA[<p>Some long description in LV language.</p>]]></long-description-lv>
+    <!-- [#] Long description EE language, can be with HTML -->
+    <long-description-ee><![CDATA[<p>Some long description in EE language.</p>]]></long-description-ee>
+    <!-- [#] Long description FI language, can be with HTML -->
+   <long-description-fi><![CDATA[<p>Some long description in FI language.</p>]]></long-description-fi>
+    <!-- Youtube video URL -->
+    <video-youtube></video-youtube>
+    <!-- All other product attributes like manufacturer, country of origin, etc. -->
+    <properties>
+    <property>
+    <!-- Attribute unique ID and/or name -->
+    <id><![CDATA[spalva]]></id>
+    <values>
+    <value><![CDATA[Geltona]]></value>
+     <value><![CDATA[Smėlinė]]></value>
+    </values>
+    </property>
+    <property>
+    <id><![CDATA[Medžiaga]]></id>
+    <values>
+    <value><![CDATA[Rotangas]]></value>
+    </values>
+    </property>
+   <property>
+    <id><![CDATA[Prekės ženklas]]></id>
+    <values>
+    <value><![CDATA[GTV]]></value>
+    </values>
+    </property>
+    </properties>
+    <colours>
+    <colour>
+    <colour-title></colour-title>
+    <!-- [*] Product images, can be several -->
+    <images>
+    <image>
+    <url>https://en.gtvdecor.com/wp-content/uploads/2023/10/OS-ABRA-05-DEC.png</url>
+    </image>
+        <image>
+    <url>https://en.gtvdecor.com/wp-content/uploads/2023/10/ABRA_OS-ABRA-05-DEC_1.jpg</url>
+    </image>
+        <image>
+    <url>https://en.gtvdecor.com/wp-content/uploads/2023/10/ABRA_OS-ABRA-05-DEC.jpg</url>
+    </image>
+        <image>
+    <url>https://en.gtvdecor.com/wp-content/uploads/2023/10/ABRA_OS-ABRA-05-DEC_2.jpg</url>
+    </image>
+    </images>
+    <modifications>
+    <modification>
+    <modification-title></modification-title>
+    <!-- [*] Product package Weight in kg -->
+    <weight>1.2</weight>
+    <!-- [*] Product package length in m -->
+    <length>0.6</length>
+    <!-- [*] Product package height in m -->
+    <height>0.6</height>
+    <!-- [*] Product package width in m -->
+    <width>0.2</width>
+    <attributes>
+    <!-- [*] Unique EAN code -->
+    <barcodes>
+    <barcode><![CDATA[5902801466168]]></barcode>
+    </barcodes>
+    <!-- [*] Unique product code in your system MANDATORY -->
+    <supplier-code><![CDATA[ABRA 1*E27 max.40W, 6168]]></supplier-code>
+    <!-- Manufacturer code, if you have such-->
+    <manufacturer-code><![CDATA[6168]]></manufacturer-code>
+    </attributes>
+    </modification>
+   </modifications>
+    </colour>
+    </colours>
+    </product>
+   </products>
